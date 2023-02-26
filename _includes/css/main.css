@@ -209,8 +209,8 @@ section.success {
 
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
-    width: 50%;
-    height: 50%;
+    width: 35%;
+    height: 35%;
     opacity: 0;
     background: rgba({{ site.color.primary-rgb }},.9);
     -webkit-transition: all ease .5s;
@@ -229,7 +229,7 @@ section.success {
     height: 20px;
     margin-top: -12px;
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
     color: #fff;
 }
 
