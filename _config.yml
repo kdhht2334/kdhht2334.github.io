@@ -32,17 +32,17 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Daeha Kim
+  copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
+  #  - title: twitter
+  #    url: 
+  #  - title: facebook
+  #    url:
   - title: medium
     url: https://medium.com/datadriveninvestor/how-can-we-derive-a-low-dimensional-space-f94d35b15529
   - title: linkedin
