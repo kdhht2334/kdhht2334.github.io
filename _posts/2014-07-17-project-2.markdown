@@ -1,11 +1,10 @@
 ---
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: cake.png
+modal-id: Development of human‐friendly human‐robot interaction technologies using human internal emotional states recognition
+date: 2023-02-27
+img: robot.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: December 2016 - November 2021
+category: Facial expression recognition, Human emotion recognition, Affect estimation
+description: Research on facial expression recognition (FER) technique based on valence-arousal (VA) domain
 ---

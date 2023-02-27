@@ -7,5 +7,7 @@ img: vr.png
 alt: image-alt
 project-date: July 2022
 category: Facial expression recognition, Facial expression manipulation, 3D-aware Generative Models
-description: Research on metaverse interaction technology based on human factor (HF) of users
+description: Research on metaverse interaction technology based on human factor (HF) of users  
+# Building a neural network that output smulti‐modality information (e.g., emotion, gaze etc.) in HF  
+# Identity‐invariant valence-arousal (VA) domain facial expression recognition (FER) technology
 ---
