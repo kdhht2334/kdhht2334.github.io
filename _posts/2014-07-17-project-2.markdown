@@ -1,6 +1,7 @@
 ---
 layout: default
-modal-id: Development of human‐friendly human‐robot interaction technologies using human internal emotional states recognition
+modal-id: 2
+title: "Development of human‐friendly human‐robot interaction technologies using human internal emotional states recognition"
 date: 2023-02-27
 img: robot.png
 alt: image-alt
