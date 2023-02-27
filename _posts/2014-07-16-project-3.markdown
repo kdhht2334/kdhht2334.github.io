@@ -6,7 +6,7 @@ date: 2023-02-27
 img: project03.png
 alt: image-alt
 project-date: July 2020 ‐ June 2022 
-type: __Fundamental research__
+type: Fundamental research
 category: Image-to-image (I2I) translation, rain synthesis, rain streak removal
 description: Development of rain trajectory and removal algorithms adapted to the surrounding background.
 ---

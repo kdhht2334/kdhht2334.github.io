@@ -6,7 +6,7 @@ date: 2023-02-27
 img: project04.png
 alt: image-alt
 project-date: May 2018 ‐ November 2018
-type: __Company development__
+type: Industrial‐academic cooperation
 category: Object detection, object tracking
 description: Detection and tracking cabinet products that are robust on wild backgrounds and human clothes.
 ---
