@@ -1,16 +1,12 @@
 ---
 layout: default
 modal-id: 2
-title: "Development of human‐friendly human‐robot interaction technologies using human internal emotional states recognition"
+title: "Development of human‐robot interaction technologies using human internal emotional states recognition"
 date: 2023-02-27
 img: project02.png
 alt: image-alt
-project-date: December 2016 - November 2021
+project-date: Dec. 2016 - Nov. 2021
+type: __Fundamental research__
 category: Facial expression recognition, Human emotion recognition, Affect estimation
-description: Research on facial expression recognition (FER) technique based on valence-arousal (VA) domain#   7-class facial expression recognition (FER)
+description: Research on facial expression recognition (FER) technique. Valence-arousal (VA) domain FER. Case study of mismatches between inner emotions and facial expressions (i.e.,hidden emotion detection).
 ---
-
-Content:
-  - 7-class facial expression recognition (FER)
-  - Valence-arousal (VA) domain FER
-  - Case study of mismatches between inner emotions and facial expressions (i.e.,hidden emotion detection)
