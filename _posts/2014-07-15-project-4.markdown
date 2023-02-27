@@ -5,7 +5,7 @@ title: "Development of object recognition and tracking system for unmanned store
 date: 2023-02-27
 img: project04.png
 alt: image-alt
-project-date: May 2018 ‐ November 2018
+period: May 2018 ‐ Nov. 2018
 type: Industrial‐academic cooperation
 category: Object detection, object tracking
 description: Detection and tracking cabinet products that are robust on wild backgrounds and human clothes.

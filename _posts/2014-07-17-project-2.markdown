@@ -5,7 +5,7 @@ title: "Development of human‐robot interaction technologies using human intern
 date: 2023-02-27
 img: project02.png
 alt: image-alt
-project-date: Dec. 2016 - Nov. 2021
+period: Dec. 2016 - Nov. 2021
 type: Fundamental research
 category: Facial expression recognition, Human emotion recognition, Affect estimation
 description: Research on facial expression recognition (FER) technique. Valence-arousal (VA) domain FER. Case study of mismatches between inner emotions and facial expressions (i.e.,hidden emotion detection).

@@ -5,7 +5,7 @@ modal-id: 1
 date: 2023-02-27
 img: project01.png
 alt: image-alt
-project-date: Jul. 2022
+period: Jul. 2022 - Feb. 2023
 type: Fundamental research
 category: Facial expression recognition, Facial expression manipulation, 3D-aware Generative Models
 description: Research on metaverse interaction technology based on human factor (HF) of users. Building a neural network that output smulti‐modality information (e.g., emotion, gaze etc.) in HF. Identity‐invariant valence-arousal (VA) domain facial expression recognition (FER) technology

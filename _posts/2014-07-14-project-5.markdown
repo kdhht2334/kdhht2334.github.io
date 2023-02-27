@@ -5,7 +5,7 @@ title: "Development of an I2I translation algorithm for medical images containin
 date: 2023-02-27
 img: project05.png
 alt: image-alt
-project-date: December 2022
+period: Dec. 2022 - Feb. 2023
 type: Industrial‐academic cooperation
 category: Image-to-image (I2I) translation
 description: Convert the details of the ultrasound image of a particular equipment (eg, contrast, detail, noise etc.) to the other equipment.
