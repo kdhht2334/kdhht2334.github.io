@@ -1,10 +1,11 @@
 ---
 layout: default
+title: "Intelligent Meta-Human Platform Laboratory"
 modal-id: 1
 date: 2023-02-27
-img: cabin.png
+img: vr.png
 alt: image-alt
 project-date: July 2022
-category: Fundamental research - Intelligent meta‐Human platform laboratory
+category: Facial expression recognition, Facial expression manipulation, 3D-aware Generative Models
 description: Research on metaverse interaction technology based on human factor (HF) of users
 ---
