@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2023-02
+date: 2023-02-27
 img: cabin.png
 alt: image-alt
-project-date: Jul. 2022
-title: Intelligent meta‐Human platform laboratory
-category: Fundamental research
+project-date: July 2022
+category: Fundamental research - Intelligent meta‐Human platform laboratory
 description: Research on metaverse interaction technology based on human factor (HF) of users
 ---
