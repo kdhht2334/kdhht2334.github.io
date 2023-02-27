@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 title: "Deep Image Deraining with Quantifiable Uncertainty"
 date: 2023-02-27
-img: circus.png
+img: project03.png
 alt: image-alt
 project-date: July 2020 ‐ June 2022 
 client: Start Bootstrap

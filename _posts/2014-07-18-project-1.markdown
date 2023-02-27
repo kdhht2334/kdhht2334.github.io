@@ -3,7 +3,7 @@ layout: default
 title: "Intelligent Meta-Human Platform Laboratory"
 modal-id: 1
 date: 2023-02-27
-img: vr.png
+img: project01.png
 alt: image-alt
 project-date: July 2022
 category: Facial expression recognition, Facial expression manipulation, 3D-aware Generative Models
